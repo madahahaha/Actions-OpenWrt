@@ -1,19 +1,18 @@
 # Actions-OpenWrt
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/Dawneng/Actions-OpenWrt/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/Dawneng/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/Dawneng/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-A project for building OpenWrt with GitHub Actions
-
-Generated from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
-
-## Download
-
-- [GitHub Release](https://github.com/Dawneng/Actions-OpenWrt/releases/latest)
+Forked from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
 ## Snapshot
 
+地址：192.168.10.251
+
+用户名：root
+
+密码：password
 
 ## Thanks
 
@@ -33,8 +32,8 @@ Generated from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWr
 - [ActionsRML/delete-workflow-runs](https://github.com/ActionsRML/delete-workflow-runs)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
+- [Dawneng](https://github.com/Dawneng/Actions-OpenWrt)
 
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
-
